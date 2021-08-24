@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "title": "Responsive-Pages",
+      "body": "Responsive page ",
+      "topic": "",
+      "id": 4
+    },
+    {
+      "title": "Debate",
+      "body": "debate",
+      "topic": "",
+      "id": 5
+    },
+    {
+      "title": "art",
+      "body": "responsive",
+      "topic": "",
+      "id": 12
+    },
+    {
+      "title": "history",
+      "body": "responsive",
+      "topic": "",
+      "id": 15
+    },
+    {
+      "title": "",
+      "body": "",
+      "topic": "",
+      "id": 16
+    },
+    {
+      "title": "post1",
+      "body": "post",
+      "topic": "DIY",
+      "id": 17
+    }
+  ],
+  "people": [
+    {
+      "name": "Khushi Kumari",
+      "about": "sakshi",
+      "topic": "",
+      "id": 1
+    },
+    {
+      "name": "Ojaswi Agarwal",
+      "about": "Ojaswi",
+      "topic": "",
+      "id": 2
+    },
+    {
+      "name": "Ojaswi Agarwal",
+      "about": "ojaswi",
+      "topic": "DIY",
+      "id": 3
+    },
+    {
+      "name": "Ojaswi Agarwal",
+      "about": "ojaswi",
+      "topic": "",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "about": "abc",
+      "topic": "DIY",
+      "id": 5
+    }
+  ]
+}
